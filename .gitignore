@@ -1,5 +1,7 @@
 checkpoints/
 scratch/
 datasets/
+datasets_origin/*
+datasets_test/*
 
 *.asv

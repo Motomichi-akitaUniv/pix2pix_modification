@@ -1,7 +1,9 @@
 checkpoints/
 scratch/
+result/
 datasets/
 datasets_origin/*
 datasets_test/*
+matlab.sh.*
 
 *.asv
